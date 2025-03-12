@@ -1,0 +1,3 @@
+files:
+  - source: /HandheldCompanion/Properties/Resources.resx
+    translation: /HandheldCompanion/Properties/%file_name%.%locale%.%file_extension%
